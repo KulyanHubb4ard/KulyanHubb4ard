@@ -31,7 +31,7 @@ Saya senang membangun proyek kecil, bereksperimen dengan API, dan memahami konse
 ---
 
 ## 📫 Kontak
-- 📧 Email: `kulyanhubb4ard@example.com`  
+- 📧 Email: `Gitoedotensei@gmail.com`  
 - 💬 Terbuka untuk kolaborasi, diskusi, dan belajar bareng  
 - 🌐 Portofolio: *coming soon...*
 
